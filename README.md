@@ -1,2 +1,2 @@
 # printer
-Making my own Ruby gem
+My own simple Ruby gem
