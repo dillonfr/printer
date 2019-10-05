@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Printer
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/printer`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -38,7 +37,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-=======
-# printer
-My own simple Ruby gem
->>>>>>> c2de8945c141869725fb6c8a1bdb7ed8d25d5f36
